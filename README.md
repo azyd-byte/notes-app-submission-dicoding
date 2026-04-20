@@ -41,6 +41,6 @@ Ikuti langkah-langkah berikut untuk menjalankan project di lingkungan lokal:
 
 1. **Clone repository**
    ```bash
-   git clone [https://github.com/azyd-byte/notes-app.git](https://github.com/azyd-byte/notes-app.git)
-   cd notes-app
-   ```
+ git clone [https://github.com/azyd-byte/notes-app.git](https://github.com/azyd-byte/notes-app.git)
+   cd notes-app```
+   
