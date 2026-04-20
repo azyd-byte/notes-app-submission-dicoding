@@ -8,7 +8,7 @@ Aplikasi pencatatan berbasis web modern yang dibangun dengan pendekatan **Vanill
 - 📋 **Daftar Catatan:** Menampilkan semua catatan aktif dalam tata letak yang rapi.
 - 🗑️ **Hapus Catatan:** Menghapus catatan yang sudah tidak diperlukan.
 - 📦 **Arsip & Unarchive:** Mengelola penyimpanan catatan dengan fitur pengarsipan.
-- ⏳ **Loading Indicator:** Pengalaman pengguna yang halus dengan _Skeleton Screen_ dan _Spinner_.
+- ⏳ **Loading Indicator:** Pengalaman pengguna yang halus dengan _Spinner_.
 - ⚠️ **Notifikasi Interaktif:** Feedback aksi pengguna menggunakan **SweetAlert2**.
 - 📱 **Responsive UI:** Desain adaptif untuk berbagai ukuran layar (Mobile, Tablet, Desktop).
 
