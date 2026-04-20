@@ -26,21 +26,4 @@ Aplikasi pencatatan berbasis web modern yang dibangun dengan pendekatan **Vanill
 Project ini terintegrasi dengan **Notes API** yang disediakan oleh Dicoding:
 [https://notes-api.dicoding.dev/v2](https://notes-api.dicoding.dev/v2)
 
-## 📁 Struktur Folder
-
-`text`
-src/
-├── api/ # Modul untuk menangani request ke RESTful API
-├── components/ # Custom Elements (app-bar, note-form, note-item, note-list)
-├── styles.css # Berkas CSS (Global & Component styles)
-└── main.js # Entry point aplikasi
-
-## 📦 Instalasi & Menjalankan Project
-
-Ikuti langkah-langkah berikut untuk menjalankan project di lingkungan lokal:
-
-1. **Clone repository**
-   ```bash
- git clone [https://github.com/azyd-byte/notes-app.git](https://github.com/azyd-byte/notes-app.git)
-   cd notes-app```
    
